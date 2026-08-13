@@ -1,0 +1,13 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <title>REGIONARY Orbit-R Bildmarke</title>
+  <defs>
+    <linearGradient id="orbit" x1="24" y1="220" x2="226" y2="26" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78F3C1"/>
+      <stop offset=".52" stop-color="#5B7CFF"/>
+      <stop offset="1" stop-color="#9D83FF"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="128" cy="128" rx="101" ry="51" transform="rotate(-24 128 128)" fill="none" stroke="url(#orbit)" stroke-width="6"/>
+  <path d="M75 205V54H126C162 54 184 75 184 106C184 137 162 158 126 158H75M126 158L185 205" fill="none" stroke="#FBFCFF" stroke-width="19" stroke-linecap="square" stroke-linejoin="round"/>
+  <circle cx="204" cy="65" r="10" fill="#78F3C1" stroke="#080A0F" stroke-width="5"/>
+</svg>

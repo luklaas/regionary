@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <title>REGIONARY Primärlogo</title>
+  <defs>
+    <linearGradient id="orbit" x1="24" y1="220" x2="226" y2="26" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78F3C1"/>
+      <stop offset=".52" stop-color="#5B7CFF"/>
+      <stop offset="1" stop-color="#9D83FF"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(22 22)">
+    <ellipse cx="128" cy="128" rx="101" ry="51" transform="rotate(-24 128 128)" fill="none" stroke="url(#orbit)" stroke-width="6"/>
+    <path d="M75 205V54H126C162 54 184 75 184 106C184 137 162 158 126 158H75M126 158L185 205" fill="none" stroke="#FBFCFF" stroke-width="19" stroke-linecap="square" stroke-linejoin="round"/>
+    <circle cx="204" cy="65" r="10" fill="#78F3C1" stroke="#080A0F" stroke-width="5"/>
+  </g>
+  <text x="320" y="158" fill="#FBFCFF" font-family="Bahnschrift, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="17">REGIONARY</text>
+  <text x="325" y="207" fill="#9CA4B4" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="10">DIGITAL CREATIVE STUDIO</text>
+</svg>

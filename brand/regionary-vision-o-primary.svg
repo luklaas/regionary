@@ -1,0 +1,19 @@
+<svg viewBox="0 0 1240 320" xmlns="http://www.w3.org/2000/svg">
+  <title>REGIONARY Vision-O Primärlogo</title>
+  <defs>
+    <radialGradient id="glass" cx="30%" cy="22%" r="82%">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset=".08" stop-color="#D8FFF4"/>
+      <stop offset=".25" stop-color="#A7D9FF"/>
+      <stop offset=".53" stop-color="#766DD0"/>
+      <stop offset=".8" stop-color="#292D48"/>
+      <stop offset="1" stop-color="#0B0D13"/>
+    </radialGradient>
+  </defs>
+  <text x="70" y="194" fill="#111319" font-family="Bahnschrift, Arial, sans-serif" font-size="118" font-weight="600" textLength="382" lengthAdjust="spacingAndGlyphs">REGI</text>
+  <circle cx="548" cy="155" r="61" fill="url(#glass)" stroke="#111319" stroke-opacity=".14" stroke-width="2"/>
+  <ellipse cx="527" cy="126" rx="23" ry="10" transform="rotate(-25 527 126)" fill="#FFFFFF" fill-opacity=".5"/>
+  <circle cx="575" cy="126" r="7" fill="#83F0D0"/>
+  <text x="644" y="194" fill="#111319" font-family="Bahnschrift, Arial, sans-serif" font-size="118" font-weight="600" textLength="505" lengthAdjust="spacingAndGlyphs">NARY</text>
+  <text x="72" y="260" fill="#686B72" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="11">DIGITAL CREATIVE STUDIO</text>
+</svg>

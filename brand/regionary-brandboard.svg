@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1600 1000" xmlns="http://www.w3.org/2000/svg">
+  <title>REGIONARY Logo und Markenauftritt</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080A0F"/>
+      <stop offset=".55" stop-color="#101522"/>
+      <stop offset="1" stop-color="#17122C"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#5B7CFF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#5B7CFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orbit" x1="24" y1="220" x2="226" y2="26" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78F3C1"/>
+      <stop offset=".52" stop-color="#5B7CFF"/>
+      <stop offset="1" stop-color="#9D83FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="1180" cy="320" r="430" fill="url(#glow)"/>
+  <g opacity=".08" stroke="#FBFCFF">
+    <path d="M0 100H1600M0 200H1600M0 300H1600M0 400H1600M0 500H1600M0 600H1600M0 700H1600M0 800H1600M0 900H1600"/>
+    <path d="M100 0V1000M200 0V1000M300 0V1000M400 0V1000M500 0V1000M600 0V1000M700 0V1000M800 0V1000M900 0V1000M1000 0V1000M1100 0V1000M1200 0V1000M1300 0V1000M1400 0V1000M1500 0V1000"/>
+  </g>
+  <text x="88" y="92" fill="#78F3C1" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="7">BRAND IDENTITY / 01</text>
+  <g transform="translate(92 210) scale(1.7)">
+    <ellipse cx="128" cy="128" rx="101" ry="51" transform="rotate(-24 128 128)" fill="none" stroke="#5B7CFF" stroke-opacity=".35" stroke-width="20" filter="url(#shadow)"/>
+    <ellipse cx="128" cy="128" rx="101" ry="51" transform="rotate(-24 128 128)" fill="none" stroke="url(#orbit)" stroke-width="6"/>
+    <path d="M75 205V54H126C162 54 184 75 184 106C184 137 162 158 126 158H75M126 158L185 205" fill="none" stroke="#FBFCFF" stroke-width="19" stroke-linecap="square" stroke-linejoin="round"/>
+    <circle cx="204" cy="65" r="10" fill="#78F3C1" stroke="#080A0F" stroke-width="5"/>
+  </g>
+  <text x="570" y="390" fill="#FBFCFF" font-family="Bahnschrift, Arial, sans-serif" font-size="108" font-weight="700" letter-spacing="20">REGIONARY</text>
+  <text x="579" y="451" fill="#9CA4B4" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="11">DIGITAL CREATIVE STUDIO</text>
+  <line x1="88" y1="682" x2="1512" y2="682" stroke="#FBFCFF" stroke-opacity=".16"/>
+  <text x="88" y="760" fill="#FBFCFF" font-family="Bahnschrift, Arial, sans-serif" font-size="52" font-weight="600" letter-spacing="-1">Regionale Wurzeln.</text>
+  <text x="88" y="824" fill="#78F3C1" font-family="Bahnschrift, Arial, sans-serif" font-size="52" font-weight="600" letter-spacing="-1">Digitale Visionen.</text>
+  <g transform="translate(1118 734)">
+    <circle cx="28" cy="28" r="28" fill="#78F3C1"/><text x="75" y="35" fill="#9CA4B4" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">LOCAL CORE</text>
+    <circle cx="28" cy="100" r="28" fill="#5B7CFF"/><text x="75" y="107" fill="#9CA4B4" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">DIGITAL REACH</text>
+    <circle cx="28" cy="172" r="28" fill="#9D83FF"/><text x="75" y="179" fill="#9CA4B4" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">FUTURE VISION</text>
+  </g>
+</svg>

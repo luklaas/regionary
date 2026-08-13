@@ -1,0 +1,21 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <title>REGIONARY Vision-O Bildmarke</title>
+  <defs>
+    <radialGradient id="glass" cx="30%" cy="22%" r="82%">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset=".08" stop-color="#D8FFF4"/>
+      <stop offset=".25" stop-color="#A7D9FF"/>
+      <stop offset=".53" stop-color="#766DD0"/>
+      <stop offset=".8" stop-color="#292D48"/>
+      <stop offset="1" stop-color="#0B0D13"/>
+    </radialGradient>
+    <radialGradient id="aura">
+      <stop stop-color="#657BFF" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#657BFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="128" cy="128" r="119" fill="url(#aura)"/>
+  <circle cx="128" cy="128" r="91" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity=".5" stroke-width="3"/>
+  <ellipse cx="96" cy="83" rx="34" ry="14" transform="rotate(-25 96 83)" fill="#FFFFFF" fill-opacity=".5"/>
+  <circle cx="168" cy="87" r="10" fill="#83F0D0"/>
+</svg>
